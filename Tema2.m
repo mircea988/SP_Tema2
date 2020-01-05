@@ -1,6 +1,6 @@
 %Tema 2
 %Numarul din lista = 9
-%Semnal dreptugnhiular cu P=40, N=50 si durata=9.
+%Semnal dreptunghiular cu P=40, N=50 si durata=9.
 
 D=9;
 N=50;
